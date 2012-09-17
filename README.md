@@ -1,4 +1,4 @@
-locker-packages
-===============
+recruit
+=======
 
-Connector to collect packages
+Connector for our fake Recruit CV system

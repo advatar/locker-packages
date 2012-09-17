@@ -1,0 +1,26 @@
+{
+  "author": "Advatar <johan@sellstrom.me>",
+  "name": "Packages",
+  "description": "Packages Connector",
+  "version": "0.0.1",
+  "repository": {
+    "title": "Packages",
+    "handle": "locker-packages",
+    "author": "advatar",
+    "update": "auto",
+    "status":"unstable",
+    "github": "https://github.com/advatar/locker-packages",
+    "url": "https://github.com/advatar/locker-packages",
+    "type": "connector",
+    "static": "false",
+    "oauthSize": {
+      "width": 1000,
+      "height": 1000
+    }
+  },
+  "engines": {
+    "node": ">=0.4.9"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
